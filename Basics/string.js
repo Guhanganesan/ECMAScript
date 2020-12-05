@@ -20,3 +20,16 @@ console.log(sub);
 name="Guhan Ganesan";
 var spl = name.split();
 console.log(spl);
+
+/*
+Result:-
+GuhanGanesan
+3
+1
+Gugan
+0
+Available
+han
+uhan
+[ 'Guhan Ganesan' ]
+*/
